@@ -79,3 +79,7 @@ Referencias: Advanced R, Springer R Series
 x <- 2 + 2
 print(x)
 ```
+
+## Prueba
+
+x <- 3:6
